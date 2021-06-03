@@ -1,6 +1,6 @@
 {
   "name": "react-simple-lazy-loader",
-  "version": "1.0.0",
+  "version": "0.1.4",
   "description": "This component used to render react compoennt efficiently.",
   "main": "index.js",
   "scripts": {
