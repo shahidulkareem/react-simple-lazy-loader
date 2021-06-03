@@ -1,0 +1,23 @@
+{
+  "name": "react-simple-lazy-loader",
+  "version": "1.0.0",
+  "description": "This component used to render react compoennt efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahidulkareem/react-simple-lazy-loader.git"
+  },
+  "author": "Shahidul Kareem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahidulkareem/react-simple-lazy-loader/issues"
+  },
+  "homepage": "https://github.com/shahidulkareem/react-simple-lazy-loader#readme",
+  "dependencies": {
+    "invariant": "^2.2.4",
+    "lodash": "^4.17.21"
+  }
+}
